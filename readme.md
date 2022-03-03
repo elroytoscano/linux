@@ -42,3 +42,9 @@ copies contents of file1.txt into filecp.txt
 ## cp -r folder1 folder2
 
 copies contents of folder1 into another folder folder2 with contents of folder1
+
+## xdg-open .
+
+opens current directory
+
+## adding aliases in .bashrc?
