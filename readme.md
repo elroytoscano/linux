@@ -48,3 +48,11 @@ copies contents of folder1 into another folder folder2 with contents of folder1
 opens current directory
 
 ## adding aliases in .bashrc?
+
+## print current working directory
+
+pwd
+
+## Change directory
+
+cd starting_alphabet followed by tab
