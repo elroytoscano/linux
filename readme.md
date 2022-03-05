@@ -56,3 +56,7 @@ pwd
 ## Change directory
 
 cd starting_alphabet followed by tab
+
+## show desktop
+
+ctrl + alt + d
